@@ -5,7 +5,9 @@ import lombok.*;
 
 @Entity
 @Table(name = "agente")
-@Getter @Setter @NoArgsConstructor @AllArgsConstructor @Builder
+@Data
+@AllArgsConstructor
+@Builder
 public class Agente {
 
   @Id
