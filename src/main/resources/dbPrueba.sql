@@ -1,5 +1,5 @@
 CREATE DATABASE pruebabackbasica;
-
+USE DATABASE pruebabackbasica;
 /*
 Hola chicos, aquí José Antonio;
 Para poder hacer que funcione este archivo, en vuestra shell o workbench ejecutais este y sercioraros de seleccionar la base de
